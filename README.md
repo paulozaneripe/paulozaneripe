@@ -1,7 +1,7 @@
 ## Hey, I'm Paulo Zaneripe! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 - 🌱 Currently learning Java!
-- <span>&#x1f1e7;&#x1f1f7;</span> Born in Tubarão, Brazil
+- :brazil: Born in Tubarão, Brazil
 - 📫 How to reach me: paulozaneripe@hotmail.com
 
  <div>
