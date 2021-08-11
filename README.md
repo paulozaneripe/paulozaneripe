@@ -13,7 +13,7 @@
  <div>
     <a href="https://br.linkedin.com/in/paulozaneripe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-### Skills
+### Tools I work with
 </div>
  <div style="display: inline_block">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
