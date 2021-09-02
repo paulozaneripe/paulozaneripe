@@ -1,6 +1,6 @@
 ## Hey, I'm Paulo Zaneripe! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-- 🌱 Currently learning Java!
+- 🌱 Currently learning Angular!
 - :brazil: Born in Tubarão, Brazil
 - 📫 How to reach me: paulozaneripe@hotmail.com
 
