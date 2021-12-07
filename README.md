@@ -1,7 +1,7 @@
 ## Hey, I'm Paulo Zaneripe! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 - 🌱 Currently learning Vue.js!
-- <img height="16em" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png"/> Born in Tubarão, Brazil
+- 🇧🇷 Born in Tubarão, Brazil
 - 📫 How to reach me: paulozaneripe@hotmail.com
 
  <div>
