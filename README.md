@@ -16,6 +16,7 @@
 ### Tools I work with
 </div>
  <div style="display: inline_block">
+  <img align="center" alt="Vue" height="25" width="25" src="https://user-images.githubusercontent.com/41644376/73791106-c26e9800-47b2-11ea-88ab-f871b81cb97d.png">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/DaanDeSmedt/awesome-angular/master/angular.svg?sanitize=true">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
