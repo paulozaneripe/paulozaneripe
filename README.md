@@ -1,4 +1,5 @@
 <h3 align="center">Hey, I'm Paulo Zaneripe! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h3>
+<h2></h2><br>
 
 - 🇧🇷 I was born in Tubarão, Brazil
 - 🎓 I'm graduated in Analysis and Systems Development.
