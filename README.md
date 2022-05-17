@@ -1,7 +1,7 @@
 <h2 align="center">Hey, I'm Paulo Zaneripe! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h2>
 <div align="center">
-  <a href="https://br.linkedin.com/in/paulozaneripe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0270A9?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin de Paulo Zaneripe" alt="Linkedin de Paulo Zaneripe" target="_blank"></a>
-  <a href="https://www.instagram.com/paulozanerip" target="_blank"><img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram de Paulo Zaneripe" alt="Instagram de Paulo Zaneripe" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/paulozaneripe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0270A9?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin de Paulo Zaneripe" alt="Paulo's Linkedin" target="_blank"></a>
+  <a href="https://www.instagram.com/paulozanerip" target="_blank"><img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram de Paulo Zaneripe" alt="Paulo's Instagram" target="_blank"></a>
 </div><br>
 
 - 🇧🇷 I was born in Tubarão, Brazil
