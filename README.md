@@ -9,7 +9,7 @@
 - 🌱 I'm currently learning ReactJS!
 - 📫 Here's how to reach me: paulozaneripe@hotmail.com
 
-<h2 align="center"></h2><br>
+<br>
 
 <div align="center">
   <a href="https://github.com/paulozaneripe">
