@@ -9,7 +9,8 @@
 - 🌱 I'm currently learning ReactJS!
 - 📫 Here's how to reach me: paulozaneripe@hotmail.com
 
-<br>
+<h2 align="center"></h2><br>
+
 <div align="center">
   <a href="https://github.com/paulozaneripe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulozaneripe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
