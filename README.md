@@ -1,4 +1,4 @@
-<h2 align="center">Hey, I'm Paulo Zaneripe! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h2>
+<h2 align="center">Hey, I'm Paulo Zaneripe!</h2>
 <div align="center">
   <a href="https://br.linkedin.com/in/paulozaneripe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0270A9?style=for-the-badge&logo=linkedin&logoColor=white" title="Paulo's Linkedin" alt="Paulo's Linkedin" target="_blank"></a>
   <a href="https://www.instagram.com/paulozanerip" target="_blank"><img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white" title="Paulo's Instagram" alt="Paulo's Instagram" target="_blank"></a>
