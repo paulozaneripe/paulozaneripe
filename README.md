@@ -11,7 +11,6 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/paulozaneripe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulozaneripe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulozaneripe&hide=html,blade&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&border_radius=10"/>
   <h3>Tools & Languages I work with</h3>
