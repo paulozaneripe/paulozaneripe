@@ -6,7 +6,6 @@
 
 - 🇧🇷 I was born in Tubarão, Brazil
 - 🎓 I'm graduated in Analysis and Systems Development.
-- 📫 Here's how to reach me: paulozaneripe@hotmail.com
 
 <br>
 
