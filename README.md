@@ -5,7 +5,7 @@
 </div><br>
 
 - 🇧🇷 I was born in Tubarão, Brazil
-- 🎓 I'm graduated in Analysis and Systems Development.
+- 🎓 I graduated in Analysis and Systems Development.
 <br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulozaneripe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
