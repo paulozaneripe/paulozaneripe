@@ -4,8 +4,8 @@
   <a href="https://www.instagram.com/paulozanerip" target="_blank"><img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white" title="Paulo's Instagram" alt="Paulo's Instagram" target="_blank"></a>
 </div><br>
 
-- 🇧🇷 I was born in Tubarão, Brazil
-- 🎓 I graduated in Analysis and Systems Development.
+- 🇧🇷 Born in Tubarão, Brazil
+- 🎓 Graduate in Analysis and Systems Development .
 <br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulozaneripe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
