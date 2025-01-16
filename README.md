@@ -1,7 +1,7 @@
 <h2 align="center">Hey, I'm Paulo Zaneripe!</h2>
 <div align="center">
-  <a href="https://br.linkedin.com/in/paulozaneripe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0270A9?style=for-the-badge&logo=linkedin&logoColor=white" title="Paulo's Linkedin" alt="Paulo's Linkedin" target="_blank"></a>
-  <a href="https://www.instagram.com/paulozanerip" target="_blank"><img src="https://img.shields.io/badge/-Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white" title="Paulo's Instagram" alt="Paulo's Instagram" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/paulozaneripe" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" title="Paulo's Linkedin" alt="Paulo's Linkedin" target="_blank"></a>
+  <a href="https://www.instagram.com/paulozanerip" target="_blank"><img src="https://img.shields.io/badge/Instagram-20232A.svg?logo=Instagram&logoColor=white" title="Paulo's Instagram" alt="Paulo's Instagram" target="_blank"></a>
 </div><br>
 
 - 🇧🇷 Born in Tubarão, Brazil
@@ -13,7 +13,7 @@
   <h3>Tools & Languages I work with</h3>
   <img src="https://img.shields.io/badge/Spring-4d9146?logo=spring&logoColor=fff&style=for-the-badge" alt="Spring" />
   <img src="https://img.shields.io/badge/Java-4C352C?style=for-the-badge&logo=mocha&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Node.js-437a41?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Node.js-4b7a3c?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/TypeScript-0074C3?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PostgreSQL-2F5C8B?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
